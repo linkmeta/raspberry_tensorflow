@@ -7,3 +7,8 @@
 3.工具
   vcgencmd commands
   
+4.关机
+  sudo shutdown -h now
+  sudo halt
+  sudo poweroff
+  
