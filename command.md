@@ -12,3 +12,9 @@
   sudo halt
   sudo poweroff
   
+5.查看内存情况
+free -k
+
+6.查看磁盘情况
+df -h
+
