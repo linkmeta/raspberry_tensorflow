@@ -1,6 +1,6 @@
-# raspberry 4B
+## Raspberry 4B 
 
-## OpenCV 4.1.0 安装
+# 一、OpenCV 4.1.0 安装
 # 1. 安装软件包
 ```
 sudo pip3 install numpy
@@ -44,14 +44,13 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
 -D PYTHON3_NUMPY_INCLUDE_DIRS=/usr/lib/python3/dist-packages/numpy/core/include \
 ..
 ```
+# 4. 编译安装
 在Cmake生成Makefile之后，便可进行编译安装：
-```
     ```
     $ make -j4
     $ sudo make install
     $ sudo ldconfig
     ```
-```
 
 
 
