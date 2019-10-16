@@ -2,6 +2,7 @@
 ## 1. 安装软件包
 ```
 $pip3 install tensorflow
+```
 服务器自动安装，版本为：
 tensorflow           1.13.1     
 tensorflow-estimator 1.14.0 
