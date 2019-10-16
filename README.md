@@ -1,7 +1,7 @@
-## Raspberry 4B 
+# Raspberry 4B 
 
 # 一、OpenCV 4.1.0 安装
-# 1. 安装软件包
+## 1. 安装软件包
 ```
 sudo pip3 install numpy
 sudo apt-get install build-essential git cmake pkg-config -y
