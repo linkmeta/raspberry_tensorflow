@@ -20,3 +20,7 @@ df -h
 
 7.打印该板子接口图
 pinout
+
+8.stream播放
+./mjpg_streamer -i "./input_uvc.so -n -f 30 -r 1280x720" -o "./output_http.so -w ./www"
+客户端：http://192.168.137.137:8080/?action=stream
