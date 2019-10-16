@@ -1,4 +1,4 @@
-# Raspberry 4B 
+# Software installing for Raspberry 4B (Version:Raspbian Buster with desktop 2019-09-26)
 
 # 一、OpenCV 4.1.0 安装
 ## 1. 安装软件包
