@@ -31,4 +31,5 @@ conda install --channel https://conda.anaconda.org/anaconda tensorflow=1.13.1
 numpy
 keras
 opencv
+scikit-learn
 ```
